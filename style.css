@@ -1,0 +1,45 @@
+.box{
+    width: 1280px;
+    height: 910px;
+    border: 3px solid black;
+    margin: 0 auto;
+    background: black;
+    padding: 10px;
+}
+.header{
+    width: 1260px;
+    height: 300px;
+       margin: 0 auto;
+    background: seashell;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+     width: 1260px;
+    height: 100px;
+       margin: 10px auto;
+    background: whitesmoke;
+}
+.main{
+  width: 880px;
+    height: 400px;
+       margin: 10px;
+    background: rgb(194, 193, 193);;   
+    float: left;
+}
+.aside{
+    width: 330px;
+    height: 400px;
+       margin: 10px;
+    background: rgb(194, 193, 193);  
+    float: left;  
+}
+.footer{
+        width: 1260px;
+    height: 50px;
+    background: seashell;  
+    clear: both;
+}
